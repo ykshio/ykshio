@@ -17,6 +17,7 @@
   - [第12回旭祭webサイト](https://www.sg.dendai.ac.jp/s1j-asahisai/archives/12th/main/)
   - [第13回旭祭新歓用webサイト|AR](https://www.sg.dendai.ac.jp/s1j-asahisai/AR/)
   - 委員会内で使うシフト管理アプリ
+    - PWAを利用
 - [新聞委員会webサイト](https://www.sg.dendai.ac.jp/s1j-news/)
 - [ボランティア部らいふwebサイト](https://www.sg.dendai.ac.jp/s1b-life/)
 - [文化部会本部webサイト](https://www.sg.dendai.ac.jp/s1b-honbu/)
