@@ -11,6 +11,7 @@
     - BSACのOCEAN DIVERを2023年夏に取得
 
 ## 制作物
+- [球技得点板iOSアプリ](https://github.com/ykshio/ScoreBode)
 - 学園祭関連
   - [第11回旭祭webサイト|フロアマップ](https://www.sg.dendai.ac.jp/s1j-asahisai/archives/11th/main/#floormap)
   - [第12回旭祭新歓用webサイト](https://www.sg.dendai.ac.jp/s1j-asahisai/archives/12th/newStudents/)
