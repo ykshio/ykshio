@@ -31,6 +31,10 @@
   - ゴミ箱マップ
     - ユーザがゴミ箱の位置を設置を登録することができるシステム
     - replitを使用
+-[TooTooRoo!](https://github.com/ykshio/Too-too-roo)
+  - 大学の授業の課題として作成
+  - Djangoを用いたサーバプログラミング演習
+  - SNSを作成
 
 ## 所属
 ### 大学関連
