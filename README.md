@@ -51,8 +51,10 @@
     - 1,2年次: 副部長
     - 3年次: 部長
     - [主な活動実績等](https://www.sg.dendai.ac.jp/s1b-life/)
-    - [足立区のイベント](https://www.dendai.ac.jp/crc/region/news/20230624-03.html)で発表
+    - [足立区のイベント](https://www.dendai.ac.jp/about/regional/news/20230624-03.html)で発表
     - [小学生向け講座](https://www.dendai.ac.jp/news/20240129-02.html)の企画運営
+    - [SusHi Tech Tokyo 2024](https://www.dendai.ac.jp/about/regional/news/20240512-01.html)に出展
+    - [足立区のイベント](https://www.dendai.ac.jp/about/regional/news/20251116-99.html)に登壇
 - 東京電機大学 文化部会本部
   - 2022年5月〜
     - 1年次: 総務局長補佐
@@ -68,6 +70,10 @@
   - 2023年4月〜
     - webサイト担当
     - 添削担当(主にデザイン)
+- あだち大学フェス実行委員会
+  - 2025年5月〜
+  - 委員長として設立
+  - 2025年8月29日に[2025あだち大学フェス](https://www.dendai.ac.jp/about/regional/news/20250829-99.html)を開催 
 ### その他
 - [埼玉県警察サイバー学生ボランティア](https://www.police.pref.saitama.lg.jp/c0070/kurashi/volunteer.html)
   - 2022年6月〜
